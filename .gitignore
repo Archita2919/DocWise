@@ -23,3 +23,5 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+admin/.git_local_backup/
