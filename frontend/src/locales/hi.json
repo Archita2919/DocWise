@@ -1,0 +1,9 @@
+{
+  "create_account": "खाता बनाएं",
+  "register_prompt": "कृपया अपॉइंटमेंट बुक करने के लिए साइन अप करें",
+  "full_name": "पूरा नाम",
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "already_account": "पहले से खाता है?",
+  "login_here": "लॉगिन करें"
+}

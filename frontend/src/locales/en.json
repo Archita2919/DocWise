@@ -1,0 +1,9 @@
+{
+  "create_account": "Create Account",
+  "register_prompt": "Please sign up to book appointment",
+  "full_name": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "already_account": "Already have an account?",
+  "login_here": "Login here"
+}
