@@ -36,8 +36,8 @@ const Login = () => {
   return (
     <form onSubmit={onSubmitHandler} className='min-h-[80vh] flex items-center'>
       <div className='flex flex-col gap-3 m-auto items-start p-8 min-w-[340px] sm:min-w-96 border rounded-xl text-[#5E5E5E] text-sm shadow-lg'>
-        <p className='text-2xl font-semibold'>{t('login')}</p>
-        <p>{t('login_prompt')}</p>
+        <p className='text-2xl font-semibold'>{t('Login')}</p>
+        <p>{t('Please Login to Access your Appointment')}</p>
 
         <div className='w-full'>
           <p>{t('email')}</p>
@@ -69,7 +69,7 @@ const Login = () => {
         </button>
 
         <p>
-          {t('no_account')} <Link to="/register" className='text-primary underline cursor-pointer'>{t('register_here')}</Link>
+          {t('No Account?')} <Link to="/register" className='text-primary underline cursor-pointer'>{t('Register Here')}</Link>
         </p>
       </div>
     </form>
